@@ -1,8 +1,8 @@
 ## Avataaars generator
 
-Avataaars generator is a simple web-based app for generating avatars developed by [Fang-Pen Lin](https://twitter.com/fangpenlin), the original avatar is designed by [Pablo Stanley](https://twitter.com/pablostanley), the Sketch library can be [found here](http://www.avataaars.com/).
+Avataaars generator is a simple web-based app for generating avatars developed by [Sagnik Sahoo](https://instagram.com/virtuonic100), the original avatar is designed by [Sagnik Sahoo](https://github.com/devgossips), the Sketch library can be [found here](http://www.avataaars.com/).
 
-You can see it here: http://getavataaars.com
+You can see it here: http://avatar.onrender.com
 
 ### Run the server
 
