@@ -101,7 +101,7 @@ export class Main extends React.Component<Props, State> {
       <main role='main'>
         <header className='header clearfix'>
           <h2 style={{ color: '#6A39D7' }}>
-            avataaars generator
+            avatar.
             <Button
               type='submit'
               bsStyle='secondary'
